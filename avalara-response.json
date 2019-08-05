@@ -1,0 +1,47 @@
+{
+    "address": {
+        "line1": "200 crossing blvd",
+        "city": "bridgewater",
+        "region": "New Jersey",
+        "postalCode": "08807"
+    },
+    "validatedAddresses": [
+        {
+            "addressType": "HighRiseOrBusinessComplex",
+            "line1": "200 CROSSING BLVD",
+            "line2": "",
+            "line3": "",
+            "city": "BRIDGEWATER",
+            "region": "NJ",
+            "country": "US",
+            "postalCode": "08807-2861",
+            "latitude": 40.583556,
+            "longitude": -74.613642
+        }
+    ],
+    "coordinates": {
+        "latitude": 40.583556,
+        "longitude": -74.613642
+    },
+    "resolutionQuality": "Intersection",
+    "taxAuthorities": [
+        {
+            "avalaraId": "34",
+            "jurisdictionName": "NEW JERSEY",
+            "jurisdictionType": "State",
+            "signatureCode": "BEJY"
+        },
+        {
+            "avalaraId": "2001068031",
+            "jurisdictionName": "SOMERSET",
+            "jurisdictionType": "County",
+            "signatureCode": "MKSF"
+        },
+        {
+            "avalaraId": "2001068394",
+            "jurisdictionName": "BRIDGEWATER TOWNSHIP",
+            "jurisdictionType": "City",
+            "signatureCode": "MLQG"
+        }
+    ]
+}
